@@ -1,0 +1,3 @@
+---
+# yaml-language-server: $schema=https://schema.blue-build.org/modules/initramfs-v1.json
+type: initramfs

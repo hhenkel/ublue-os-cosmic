@@ -1,0 +1,4 @@
+---
+# yaml-language-server: $schema=https://schema.blue-build.org/modules/chezmoi-v1.json
+type: chezmoi
+repository: ""

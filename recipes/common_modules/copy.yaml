@@ -1,0 +1,5 @@
+---
+# yaml-language-server: $schema=https://schema.blue-build.org/modules/copy-v1.json
+type: copy
+dest: ""
+src: ""

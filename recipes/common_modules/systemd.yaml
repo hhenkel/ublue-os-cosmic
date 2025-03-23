@@ -1,0 +1,3 @@
+---
+# yaml-language-server: $schema=https://schema.blue-build.org/modules/systemd-v1.json
+type: systemd

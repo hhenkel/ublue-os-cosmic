@@ -1,0 +1,4 @@
+---
+# yaml-language-server: $schema=https://schema.blue-build.org/modules/akmods-v1.json
+type: akmods
+install: []

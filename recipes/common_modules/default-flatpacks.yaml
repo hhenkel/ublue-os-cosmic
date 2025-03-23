@@ -1,0 +1,34 @@
+---
+# yaml-lanuage-server: https://schema.blue-build.org/modules/default-flatpaks-v1.json
+type: default-flatpaks
+notify: true
+system:
+  repo-url: https://dl.flathub.org.repo/flathub.flatpackrepo
+  repo-name: flathub
+  install:
+    - org.mozilla.firefox
+    - io.gitlab.librewolf-community
+    - org.chromium.Chromium
+    - com.brave.Browser
+    - org.torproject.torbrowser-launcher
+    - eu.betterbird.Betterbird
+    - org.signal.Signal
+    - org.telegram.desktop
+    - ch.threema.threema-web-desktop
+    - im.riot.Riot
+    - dev.vencord.Vesktop
+    - com.slack.Slack
+    - org.musicbrainz.Picard
+    - org.apache.directory.studio
+    - com.bitwarden.desktop
+    - com.logseq.Logseq
+    - io.freetubeapp.FreeTube
+    - org.gimp.GIMP
+    - org.inkscape.Inkscape
+    - com.jgraph.drawio.desktop
+    - org.libreoffice.LibreOffice
+    - org.openscad.OpenSCAD
+    - com.prusa3d.PrusaSlicer
+    - edu.mit.Scratch
+    - com.valvesoftware.Steam
+    - com.calibre_ebook.calibre
