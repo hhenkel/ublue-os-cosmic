@@ -14,7 +14,7 @@ modules:
   # - from-file: common_modules/containerfile.yaml
   # - from-file: common_modules/copy.yaml
   # - from-file: common_modules/default-flatpacks.yaml
-  # - from-file: common_modules/files.yaml
+  - from-file: common_modules/files.yaml
   - from-file: common_modules/fonts.yaml
   # - from-file: common_modules/gnome-extensions.yaml
   # - from-file: common_modules/gschema-overrides.yaml
