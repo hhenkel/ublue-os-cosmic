@@ -2,7 +2,7 @@
 # yaml-language-server: $schema=https://schema.blue-build.org/modules/rpm-ostree-v1.json
 type: rpm-ostree
 repos:
-  - https://copr.fedorainfracloud.org/coprs/pgdev/ghostty/repo/fedora-%OS_VERSION%/pgdev-ghostty-fedora-%OS_VERSION.repo
+  - https://copr.fedorainfracloud.org/coprs/pgdev/ghostty/repo/fedora-%OS_VERSION%/pgdev-ghostty-fedora-%OS_VERSION%.repo
 install:
   - ghostty
   - libvirt
